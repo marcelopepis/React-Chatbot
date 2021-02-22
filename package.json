@@ -1,0 +1,22 @@
+{
+  "name": "react-chatbot",
+  "version": "1.0.0",
+  "description": "react bot for webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelopepis/React-Chatbot.git"
+  },
+  "author": "Marcelo Pepis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelopepis/React-Chatbot/issues"
+  },
+  "homepage": "https://github.com/marcelopepis/React-Chatbot#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
